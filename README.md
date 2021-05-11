@@ -1,3 +1,45 @@
+proyecto 4, Un Data WareHouse de Contactos.
+
+Proyecto con la libertad de realizarlo bajo cualquier tecnologia.
+
+
+Paquetes instalados:
+
+* sequelize
+* mysql2
+* jsonwebtoken
+* express
+* cors
+* nodemon
+* express-fileupload (Instalado Pero aun no esta Utilizado)
+
+* todos los paquetes de react estos se instalaron al momento que se inicio el proyecto con el comando
+* create-react-app data_warehouse.
+
+-----------
+
+Base de datos es MySql( MySQL Workbench).
+-----------
+
+se utilizo:
+javascript, React.js, Css, Node.js, Sass, Html.
+
+Tener en cuenta: 
+Este proyecto tiene la propiedad de crear su base de datos teniendo el programa MySQL Workbench instalado, pero tambien cuenta con la copia y el scripts de la BD.
+-----------
+
+Ejecutar proyecto:
+este proyecto se ejecuta con dos terminales la cual con el puerto 3001 es para el Backend y 3000 para el Frontend.
+
+en una de las terminales de corre el sigueinte comando: npx nodemon src/assets/Script/Back/Endpoint.js
+Donde "src/assets/Script/Back/Endpoint.js" es la ruta donde esta el archivo del Backend.
+
+y en la otra terminal el comando : npm start, la cual ejecuta React
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
