@@ -39,6 +39,8 @@ En la carpeta BD existe un archivo con nombre (Plantilla BD.sql), contiene todas
 
 Ejecutar proyecto:
 
+* La pagina esta creada bajo el editor Visual Code, en la terminal llegar al directorio "\data_warehouse" en este punto ejecutar "code ."
+
 este proyecto se ejecuta con dos terminales la cual, con el puerto 3001 es para el Backend y 3000 para el Frontend.
 
 * En una de las terminales se ejecuta el siguiente comando: npx nodemon src/assets/Script/Back/Endpoint.js Donde "src/assets/Script/Back/Endpoint.js" es la ruta donde esta el
