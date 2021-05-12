@@ -1,7 +1,8 @@
 proyecto 4, Un Data WareHouse de Contactos.
+-------------------------------------------
 
 Proyecto con la libertad de realizarlo bajo cualquier tecnologia.
-
+------------------------------------
 
 Paquetes instalados:
 
@@ -19,22 +20,28 @@ Paquetes instalados:
 -----------
 
 Base de datos es MySql( MySQL Workbench).
------------
 
 se utilizo:
 javascript, React.js, Css, Node.js, Sass, Html.
 
 Tener en cuenta: 
-Este proyecto tiene la propiedad de crear su base de datos teniendo el programa MySQL Workbench instalado, pero tambien cuenta con la copia y el scripts de la BD.
+
+Este proyecto tiene la propiedad de crear su base de datos teniendo el programa MySQL Workbench instalado, pero tambien cuenta con la copia y el scripts de la BD, esta en la carpeta BD.
+
 -----------
 
 Ejecutar proyecto:
+
 este proyecto se ejecuta con dos terminales la cual con el puerto 3001 es para el Backend y 3000 para el Frontend.
 
-en una de las terminales de corre el sigueinte comando: npx nodemon src/assets/Script/Back/Endpoint.js
-Donde "src/assets/Script/Back/Endpoint.js" es la ruta donde esta el archivo del Backend.
+* En una de las terminales se corre el sigueinte comando: npx nodemon src/assets/Script/Back/Endpoint.js Donde "src/assets/Script/Back/Endpoint.js" es la ruta donde esta el
 
-y en la otra terminal el comando : npm start, la cual ejecuta React
+archivo del Backend.
+
+
+* En la otra terminal el comando : npm start, la cual ejecuta React.
+
+*Automaticamente 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
